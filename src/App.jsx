@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Findings from "./components/Findings";
+import HackReplays from "./components/HackReplays";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <Navbar />
         <Hero />
         <Findings />
+        <HackReplays />
       </div>
     </main>
   );
