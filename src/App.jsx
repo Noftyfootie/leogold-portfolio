@@ -1,22 +1,10 @@
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Findings from "./components/Findings";
-import HackReplays from "./components/HackReplays";
-import About from "./components/About";
-import Footer from "./components/Footer";
+import Home from "./pages/Home/Home";
 
 function App() {
   return (
-    <main className="min-h-screen bg-background text-primary-text">
-      <div className="mx-auto my-4 max-w-5xl overflow-hidden rounded-xl border border-border bg-surface sm:my-6">
-        <Navbar />
-        <Hero />
-        <Findings />
-        {/* <HackReplays />
-        <About />
-        <Footer />  */}
-      </div>
-    </main>
+    <>
+      <Home />
+    </>
   );
 }
 

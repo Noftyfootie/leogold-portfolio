@@ -24,3 +24,5 @@ const findings = [
     date: "nov 2025",
   },
 ];
+
+export default findings;
