@@ -1,7 +1,7 @@
 import Navbar from "../../components/Navbar";
 import Hero from "../../components/Hero";
 import Findings from "../../section/Findings";
-// import HackReplays from "./components/HackReplays";
+import HackReplays from "../../section/HackReplays";
 // import About from "./components/About";
 // import Footer from "./components/Footer";
 
@@ -12,8 +12,8 @@ function Home() {
         <Navbar />
         <Hero />
         <Findings />
-        {/* <HackReplays />
-        <About />
+        <HackReplays />
+        {/* <About />
         <Footer />  */}
       </div>
     </main>
