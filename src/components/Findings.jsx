@@ -37,7 +37,7 @@ function FindingCard({ finding }) {
       <span className={`text-[10px] ${severityColor}`}>{finding.severity}</span>
 
       <span className="min-w-0">
-        <span className="block break-words text-xs leading-5 text-primary-text transition-colors group-hover:text-accent sm:text-[13px]">
+        <span className="block wrap-break-word text-xs leading-5 text-primary-text transition-colors group-hover:text-accent sm:text-[13px]">
           {finding.title}
         </span>
 
@@ -75,7 +75,7 @@ function Findings() {
 
         <a
           href="#findings"
-          className="shrink-0 text-[10px] text-muted transition-colors hover:text-accent"
+          className="shrink-0 text-[10px] text-muted! transition-colors hover:text-accent!"
         >
           view all →
         </a>

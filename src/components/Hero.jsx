@@ -24,14 +24,14 @@ function Hero() {
       <div className="mt-8 flex flex-wrap gap-3">
         <a
           href="#findings"
-          className="inline-flex min-h-9 items-center justify-center border border-accent px-4 py-2 text-[11px] text-accent transition-colors hover:bg-accent hover:text-background"
+          className="inline-flex min-h-9 items-center justify-center border border-accent px-4 py-2 text-[11px] text-accent! transition-colors hover:bg-accent hover:text-background!"
         >
           [ view findings ↗ ]
         </a>
 
         <a
           href="mailto:audits@leogold.xyz"
-          className="inline-flex min-h-9 items-center justify-center border border-border px-4 py-2 text-[11px] text-primary-text transition-colors hover:border-accent hover:text-accent"
+          className="inline-flex min-h-9 items-center justify-center border border-border px-4 py-2 text-[11px] text-primary-text transition-colors hover:border-accent hover:text-accent!"
         >
           request audit
         </a>
