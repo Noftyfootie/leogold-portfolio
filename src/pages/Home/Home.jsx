@@ -2,8 +2,8 @@ import Navbar from "../../components/Navbar";
 import Hero from "../../components/Hero";
 import Findings from "../../section/Findings";
 import HackReplays from "../../section/HackReplays";
-// import About from "../../components/About";
-// import Footer from "./components/Footer";
+import About from "../../components/About";
+import Footer from "../../components/Footer";
 
 function Home() {
   return (
