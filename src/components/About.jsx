@@ -33,7 +33,7 @@ function About() {
             public - no quiet wins, no methodology hidden behind nda
           </p>
 
-          <p className="mt-4 text-xs leading-6 text-muted">
+          {/* <p className="mt-4 text-xs leading-6 text-muted">
             I investigate how protocols fail, trace the assumptions that make
             exploits possible, and build reproducible proof-of-concept tests. My
             focus is on helping teams understand security risks before
@@ -43,7 +43,7 @@ function About() {
           <p className="mt-3 text-xs leading-6 text-muted">
             My work prioritizes clear technical explanations, practical
             remediation guidance, and responsible disclosure.
-          </p>
+          </p> */}
         </div>
 
         {/* <div>
