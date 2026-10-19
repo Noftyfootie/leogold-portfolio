@@ -17,7 +17,7 @@ function About() {
         id="about-heading"
         className="mb-5 text-[11px] font-normal tracking-wide text-muted"
       >
-        // about
+        // who
       </h2>
 
       <div className="grid gap-8 sm:grid-cols-[1.2fr_0.8fr] sm:gap-10">
@@ -34,6 +34,7 @@ function About() {
             deployment.
           </p>
 
+          <p className="mt-3 text-xs leading-6 text-muted"></p>
           <p className="mt-3 text-xs leading-6 text-muted">
             My work prioritizes clear technical explanations, practical
             remediation guidance, and responsible disclosure.
