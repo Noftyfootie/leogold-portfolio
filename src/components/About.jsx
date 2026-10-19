@@ -27,6 +27,12 @@ function About() {
             <span className="text-accent">It's an adversarial mindset.</span>
           </h3>
 
+          <p className="mt-3 text-xs leading-6 text-muted">
+            Four years deep in offensive security. Now focused on web3 protocols
+            and the apis around them. Every finding published, every replay
+            public - no quiet wins, no methodology hidden behind nda
+          </p>
+
           <p className="mt-4 text-xs leading-6 text-muted">
             I investigate how protocols fail, trace the assumptions that make
             exploits possible, and build reproducible proof-of-concept tests. My
@@ -34,7 +40,6 @@ function About() {
             deployment.
           </p>
 
-          <p className="mt-3 text-xs leading-6 text-muted"></p>
           <p className="mt-3 text-xs leading-6 text-muted">
             My work prioritizes clear technical explanations, practical
             remediation guidance, and responsible disclosure.
