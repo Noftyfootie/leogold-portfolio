@@ -49,6 +49,20 @@ function About() {
         {/* <div>
           <p className="mb-3 text-[10px] text-muted">// focus areas</p>
 
+          <ul className="space-y-2">
+            {specialties.map((specialty) => (
+              <li
+                key={specialty}
+                className="flex items-start gap-2 text-xs leading-5 text-primary-text"
+              >
+                <span aria-hidden="true" className="text-accent">
+                  +
+                </span>
+                {specialty}
+              </li>
+            ))}
+          </ul>
+
     
         </div> */}
 
