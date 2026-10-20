@@ -49,6 +49,12 @@ function About() {
         {/* <div>
           <p className="mb-3 text-[10px] text-muted">// focus areas</p>
 
+    
+        </div> */}
+
+        {/* <div>
+          <p className="mb-3 text-[10px] text-muted">// focus areas</p>
+
           <ul className="space-y-2">
             {specialties.map((specialty) => (
               <li
