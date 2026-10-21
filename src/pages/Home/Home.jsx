@@ -3,7 +3,7 @@ import Hero from "../../components/Hero";
 import Findings from "../../section/Findings";
 import HackReplays from "../../section/HackReplays";
 import About from "../../components/About";
-// import Footer from "../../components/Footer";
+import Footer from "../../components/Footer";
 
 function Home() {
   return (
@@ -14,7 +14,7 @@ function Home() {
         <Findings />
         <HackReplays />
         <About />
-        {/* <Footer /> */}
+        <Footer />
       </div>
     </main>
   );

@@ -43,8 +43,8 @@ function Footer() {
                         ? "noreferrer"
                         : undefined
                     }
-                    className={`text-[11px] transition-colors hover:text-accent ${
-                      link.active ? "text-accent" : "text-muted"
+                    className={`text-[11px] transition-colors hover:text-accent! ${
+                      link.active ? "text-accent!" : "text-muted!"
                     }`}
                   >
                     {link.label}
@@ -65,7 +65,7 @@ function Footer() {
             <li>
               <a
                 href="mailto:audits@leogold.xyz"
-                className="transition-colors hover:text-accent"
+                className="transition-colors hover:text-accent!"
               >
                 audits@leogold.xyz
               </a>
@@ -83,7 +83,7 @@ function Footer() {
 
         <a
           href="#home"
-          className="text-[10px] text-muted transition-colors hover:text-accent"
+          className="text-[10px] text-muted! transition-colors hover:text-accent!"
         >
           view source ↗
         </a>
