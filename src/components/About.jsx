@@ -71,6 +71,11 @@ function About() {
         <p className="text-muted">
           based · <span className="text-primary-text">lagos</span>
         </p>
+
+        <p className="text-muted">
+          currently ·{" "}
+          <span className="text-primary-text">accepting audits</span>
+        </p>
       </div>
     </section>
   );
