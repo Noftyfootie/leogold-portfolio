@@ -76,6 +76,13 @@ function About() {
           currently ·{" "}
           <span className="text-primary-text">accepting audits</span>
         </p>
+
+        <a
+          href="#contact"
+          className="text-accent transition-colors hover:opacity-70"
+        >
+          pgp →
+        </a>
       </div>
     </section>
   );
