@@ -22,10 +22,10 @@ function About() {
 
       <div className="grid gap-8 sm:grid-cols-[1.2fr_0.8fr] sm:gap-10">
         <div>
-          <h3 className="max-w-md text-lg leading-7 font-normal sm:text-xl">
+          {/* <h3 className="max-w-md text-lg leading-7 font-normal sm:text-xl">
             Security is not a checklist.{" "}
             <span className="text-accent">It's an adversarial mindset.</span>
-          </h3>
+          </h3> */}
 
           <p className="mt-3 text-xs leading-6 text-muted">
             Four years deep in offensive security. Now focused on web3 protocols
@@ -79,7 +79,7 @@ function About() {
 
         <a
           href="#contact"
-          className="text-accent transition-colors hover:opacity-70"
+          className="text-accent! transition-colors hover:opacity-70"
         >
           pgp →
         </a>
