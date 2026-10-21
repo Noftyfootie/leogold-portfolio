@@ -65,24 +65,12 @@ function About() {
 
     
         </div> */}
+      </div>
 
-        {/* <div>
-          <p className="mb-3 text-[10px] text-muted">// focus areas</p>
-
-          <ul className="space-y-2">
-            {specialties.map((specialty) => (
-              <li
-                key={specialty}
-                className="flex items-start gap-2 text-xs leading-5 text-primary-text"
-              >
-                <span aria-hidden="true" className="text-accent">
-                  +
-                </span>
-                {specialty}
-              </li>
-            ))}
-          </ul>
-        </div> */}
+      <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3 border-t border-border pt-4 text-[10px]">
+        <p className="text-muted">
+          based · <span className="text-primary-text">lagos</span>
+        </p>
       </div>
     </section>
   );
