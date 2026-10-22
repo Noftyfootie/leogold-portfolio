@@ -95,3 +95,4 @@ function Footer() {
 export default Footer;
 
 console.log("");
+console.log("Final Details");
