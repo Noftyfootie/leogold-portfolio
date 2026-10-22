@@ -96,3 +96,4 @@ export default Footer;
 
 console.log("");
 console.log("Final Details");
+console.log("Final Details");
