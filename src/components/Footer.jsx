@@ -94,4 +94,6 @@ function Footer() {
 
 export default Footer;
 
-function Danm() {}
+function Danm() {
+  const fail = 23;
+}
