@@ -96,4 +96,5 @@ export default Footer;
 
 function Danm() {
   const fail = 23;
+  const pass = 77;
 }
