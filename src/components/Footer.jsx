@@ -101,4 +101,5 @@ function Danm() {
 
 function today() {
   const sarturday = 8;
+  const response = 0;
 }
