@@ -98,3 +98,5 @@ function Danm() {
   const fail = 23;
   const pass = 77;
 }
+
+function today() {}
