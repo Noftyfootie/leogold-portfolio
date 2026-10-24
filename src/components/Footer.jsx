@@ -99,4 +99,6 @@ function Danm() {
   const pass = 77;
 }
 
-function today() {}
+function today() {
+  const sarturday = 8;
+}
