@@ -103,3 +103,5 @@ function today() {
   const sarturday = 8;
   const response = 0;
 }
+
+function Name1() {}
