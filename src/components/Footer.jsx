@@ -106,4 +106,5 @@ function today() {
 
 function Name1() {
   const first = Nofisat;
+  const second = Titilayo;
 }
