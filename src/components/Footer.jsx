@@ -104,4 +104,6 @@ function today() {
   const response = 0;
 }
 
-function Name1() {}
+function Name1() {
+  const first = Nofisat;
+}
