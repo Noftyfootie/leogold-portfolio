@@ -93,18 +93,3 @@ function Footer() {
 }
 
 export default Footer;
-
-function Danm() {
-  const fail = 23;
-  const pass = 77;
-}
-
-function today() {
-  const sarturday = 8;
-  const response = 0;
-}
-
-function Name1() {
-  const first = Nofisat;
-  const second = Titilayo;
-}
