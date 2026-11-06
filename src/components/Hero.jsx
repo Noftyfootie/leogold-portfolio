@@ -33,7 +33,7 @@ function Hero() {
           href="mailto:audits@leogold.xyz"
           className="inline-flex min-h-9 items-center justify-center border border-border px-4 py-2 text-[11px] text-primary-text transition-colors hover:border-accent hover:text-accent!"
         >
-          request audit
+          request audits
         </a>
       </div>
     </section>
