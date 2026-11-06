@@ -4,6 +4,7 @@
 
 @theme {
   --font-mono: "IBM Plex Mono", monospace;
+  --font-halloween: "Creepster", cursive;
 
   --color-background: #0a0a0a;
   --color-surface: #0d0d0d;

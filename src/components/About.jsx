@@ -30,7 +30,7 @@ function About() {
           <p className="mt-3 text-xs leading-6 text-muted">
             Four years deep in offensive security. Now focused on web3 protocols
             and the apis around them. Every finding published, every replay
-            public - no quiet wins, no methodology hidden behind nda
+            public - no quiet wins, no methodology hidden b+.ehind nda
           </p>
 
           {/* <p className="mt-4 text-xs leading-6 text-muted">
@@ -89,3 +89,5 @@ function About() {
 }
 
 export default About;
+
+// https://leogolg-portfolio.netlify.app/
