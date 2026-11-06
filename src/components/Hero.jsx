@@ -9,7 +9,7 @@ function Hero() {
 
       <h1
         id="hero-heading"
-        className="max-w-2xl text-[27px] leading-[1.4] font-normal tracking-tight sm:text-3xl md:text-4xl"
+        className="font-halloween max-w-2xl text-[27px] leading-[1.4] font-normal tracking-tight sm:text-3xl md:text-4xl"
       >
         I find what breaks <span className="text-accent">before</span> the
         protocol ships.
