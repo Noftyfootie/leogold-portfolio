@@ -42,5 +42,4 @@ function Hero() {
 
 export default Hero;
 
-console.log("update");
-Console.log("Today is sunday");
+console.log("");
