@@ -42,4 +42,4 @@ function Hero() {
 
 export default Hero;
 
-console.log("Layo");
+console.log("Layo dev");
