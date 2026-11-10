@@ -43,3 +43,4 @@ function Hero() {
 export default Hero;
 
 console.log("Layo dev");
+function today() {}
