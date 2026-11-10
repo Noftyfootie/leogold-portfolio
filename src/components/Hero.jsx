@@ -43,6 +43,6 @@ function Hero() {
 export default Hero;
 
 console.log("Layo dev");
-function today() {
+function today(event) {
   const day = Tuesday;
 }
