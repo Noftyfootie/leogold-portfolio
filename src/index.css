@@ -65,3 +65,13 @@ button {
   color: #0a0a0a;
   background: #f5c400;
 }
+
+.font-test {
+  font-family: "Butcherman", cursive;
+}
+
+.halloween-heading {
+  font-weight: 900;
+  -webkit-text-stroke: 1px currentColor;
+  paint-order: stroke fill;
+}
