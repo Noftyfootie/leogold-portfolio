@@ -66,12 +66,11 @@ button {
   background: #f5c400;
 }
 
-.font-test {
-  font-family: "Butcherman", cursive;
-}
-
+/* Creepster Font */
 .halloween-heading {
-  font-weight: 900;
-  -webkit-text-stroke: 1px currentColor;
+  font-family: "Creepster", cursive;
+  font-weight: 400;
+  -webkit-text-stroke: 0.8px currentColor;
   paint-order: stroke fill;
+  letter-spacing: 1px;
 }
