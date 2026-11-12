@@ -27,4 +27,6 @@ const replays = [
 
 export default replays;
 
-function Today() {}
+function Today() {
+  const thursday = 12;
+}
