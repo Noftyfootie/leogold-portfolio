@@ -26,3 +26,5 @@ const replays = [
 ];
 
 export default replays;
+
+function Today() {}
