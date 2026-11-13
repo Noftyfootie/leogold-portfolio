@@ -32,4 +32,5 @@ function Today() {
   const good = true;
   const day = "friday";
   const bad = false;
+  console.log();
 }
