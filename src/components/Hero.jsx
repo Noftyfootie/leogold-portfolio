@@ -42,5 +42,4 @@ function Hero() {
 
 export default Hero;
 
-console.log("Today");
-console.log();
+console.log("4MCT_RLvc");
