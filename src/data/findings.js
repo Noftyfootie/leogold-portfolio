@@ -26,5 +26,3 @@ const findings = [
 ];
 
 export default findings;
-console.log("Today");
-console.log("");
