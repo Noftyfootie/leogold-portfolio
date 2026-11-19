@@ -90,6 +90,6 @@ function About() {
 
 export default About;
 
-console.log();
+console.log("Today");
 
 // https://leogolg-portfolio.netlify.app/
