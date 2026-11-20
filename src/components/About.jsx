@@ -91,6 +91,6 @@ function About() {
 export default About;
 
 console.log("Today");
-console.log("friday");
+console.log("friday os today");
 
 // https://leogolg-portfolio.netlify.app/
