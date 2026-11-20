@@ -91,4 +91,4 @@ function About() {
 export default About;
 
 // https://leogolg-portfolio.netlify.app/
-console.log();
+console.log("what");
