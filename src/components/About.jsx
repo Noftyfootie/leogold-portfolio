@@ -91,5 +91,6 @@ function About() {
 export default About;
 
 console.log("Today");
+console.log("");
 
 // https://leogolg-portfolio.netlify.app/
