@@ -94,4 +94,5 @@ export default About;
 console.log("what");
 function today() {
   const sunday = 22;
+  const monday = "tommorrow";
 }
