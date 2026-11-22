@@ -92,3 +92,4 @@ export default About;
 
 // https://leogolg-portfolio.netlify.app/
 console.log("what");
+function today() {}
