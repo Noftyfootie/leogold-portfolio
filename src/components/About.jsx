@@ -89,5 +89,6 @@ function About() {
 }
 
 export default About;
+function today() {}
 
 // https://leogolg-portfolio.netlify.app/
