@@ -91,8 +91,6 @@ function About() {
 export default About;
 function today() {
   const day = 23;
-  const today = "I am feeling sleepy";
-  const year = 2026;
 }
 
 // https://leogolg-portfolio.netlify.app/
