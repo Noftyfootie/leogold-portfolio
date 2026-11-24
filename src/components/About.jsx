@@ -91,6 +91,7 @@ function About() {
 export default About;
 function today() {
   const day = 23;
+  const month = "November";
 }
 
 // https://leogolg-portfolio.netlify.app/
