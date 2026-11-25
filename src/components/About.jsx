@@ -94,4 +94,6 @@ function today() {
   const month = "November";
 }
 
+today();
+
 // https://leogolg-portfolio.netlify.app/
