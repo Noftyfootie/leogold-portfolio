@@ -95,5 +95,6 @@ function today() {
 }
 
 today();
+today();
 
 // https://leogolg-portfolio.netlify.app/
