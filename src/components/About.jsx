@@ -97,3 +97,4 @@ function today() {
 // https://leogolg-portfolio.netlify.app/
 console.log("Update");
 console.log(today);
+console.log(today);
